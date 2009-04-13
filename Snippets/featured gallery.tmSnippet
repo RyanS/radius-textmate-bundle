@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;r:gallery_categories name="${1:Featured Gallery}"&gt;
+  &lt;r:galleries:each limit="1"&gt;
+    &lt;a href="&lt;r:url /&gt;"&gt;&lt;img src="&lt;r:cover_image_normal /&gt;" alt="&lt;r:name /&gt;" /&gt;&lt;/a&gt;
+    &lt;a href="&lt;r:url /&gt;"&gt;&lt;r:name /&gt;&lt;/a&gt;
+    &lt;r:description /&gt;
+  &lt;/r:galleries:each&gt;
+&lt;/r:gallery_categories&gt;</string>
+	<key>name</key>
+	<string>featured gallery</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>featured gallery</string>
+	<key>uuid</key>
+	<string>399D51B7-6F47-4701-9BC8-51B318BAF311</string>
+</dict>
+</plist>
