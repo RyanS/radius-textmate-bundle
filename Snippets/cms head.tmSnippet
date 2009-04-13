@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"&gt;
+&lt;head&gt;
+  
+  &lt;title&gt;&lt;r:unless_url matches=" "&gt;&lt;r:name /&gt; - &lt;/r:unless_url&gt;&lt;r:meta_title /&gt;&lt;/title&gt;
+  
+  &lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&gt;
+  &lt;r:meta_content /&gt;
+  
+  &lt;link rel="shortcut icon" href="/favicon.ico" /&gt;
+  
+&lt;/head&gt;</string>
+	<key>name</key>
+	<string>cms head</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>cms head</string>
+	<key>uuid</key>
+	<string>9DE32A10-CF28-44F5-A2B2-60D15130BC5F</string>
+</dict>
+</plist>

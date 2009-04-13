@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;r:events:each ${1:limit="$2"}&gt;
+  &lt;p&gt;&lt;r:link /&gt;&lt;/p&gt;
+&lt;/r:events:each&gt;
+</string>
+	<key>name</key>
+	<string>events</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>events</string>
+	<key>uuid</key>
+	<string>7263CE3B-6E21-465A-B8B9-6EE67FE5E4F8</string>
+</dict>
+</plist>

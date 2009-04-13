@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;r:articles:each limit="$1"&gt;
+  &lt;p&gt;
+  &lt;r:link /&gt;
+  &lt;br /&gt;
+  &lt;small&gt;&lt;r:published_at /&gt;&lt;/small&gt;
+  &lt;/p&gt;
+  &lt;p&gt;&lt;r:content_short /&gt;&lt;/p&gt;
+&lt;/r:articles:each&gt;
+</string>
+	<key>name</key>
+	<string>articles</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>articles</string>
+	<key>uuid</key>
+	<string>35C30283-45A7-4E3D-B527-690A1CA414B4</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Radius</string>
+	<key>ordering</key>
+	<array>
+		<string>7263CE3B-6E21-465A-B8B9-6EE67FE5E4F8</string>
+		<string>35C30283-45A7-4E3D-B527-690A1CA414B4</string>
+		<string>69B73957-D110-40FA-B9E8-3FBE9E928B2A</string>
+		<string>EABD33E4-E30F-4ACD-B7EE-52D128E56006</string>
+		<string>FDA2BD10-73C2-4A4F-AB7B-EF0ADB5D5052</string>
+	</array>
+	<key>uuid</key>
+	<string>45652CE1-66BD-4F6F-98EA-A7122DA6BB9E</string>
+</dict>
+</plist>
