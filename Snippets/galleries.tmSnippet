@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;r:galleries:each${1: limit="$2"}&gt;
+  &lt;a href="&lt;r:url /&gt;"&gt;&lt;img src="&lt;r:cover_image_normal /&gt;" alt="&lt;r:description /&gt;" /&gt;&lt;/a&gt;
+&lt;/r:galleries:each&gt;
+</string>
+	<key>name</key>
+	<string>galleries</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>galleries</string>
+	<key>uuid</key>
+	<string>B33522E2-0192-4469-A8FA-CF9FF9FA12FD</string>
+</dict>
+</plist>
